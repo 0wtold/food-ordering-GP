@@ -5,12 +5,13 @@ import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 // Replace these with your actual Firebase project config
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBXRwLi78ZZFWIq08jRKE-BStAeYeKMMHU",
+  authDomain: "food-ordering-gp.firebaseapp.com",
+  projectId: "food-ordering-gp",
+  storageBucket: "food-ordering-gp.firebasestorage.app",
+  messagingSenderId: "196010628186",
+  appId: "1:196010628186:web:53df52f52b76cfa9647463",
+  measurementId: "G-M93WH91HKM"
 };
 
 // Initialize Firebase
